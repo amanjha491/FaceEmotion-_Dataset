@@ -1,7 +1,7 @@
                                                  
-                                                 # HumanFaceEmotion
-                                                 
-                                                  Repository consist data set to train face emotion AI.
+                     # HumanFaceEmotion
+
+        Repository consist data set to train face emotion AI.
 
 
 Project has the following stages:

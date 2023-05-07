@@ -1,7 +1,7 @@
                                                  
                      # HumanFaceEmotion
 
-        Repository consist data set to train face emotion AI.
+        This repository consists of a dataset which we will train in our to see how Emotion Detection using AI works
 
 
 Project has the following stages:
